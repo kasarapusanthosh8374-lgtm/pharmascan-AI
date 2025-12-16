@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PharmaScan AI",
+  "description": "An AI-powered assistant for pharmacists to analyze handwritten prescriptions, extract structured medication data, and identify safety risks using Gemini 2.5.",
+  "requestFramePermissions": []
+}
